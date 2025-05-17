@@ -20,3 +20,7 @@
 - Django 
 - RESTful 架構（使用  DRF ）
 - JSON 資料模擬（`users.json`、`reports.json`）
+- ## 🧪 API 测试说明
+
+本项目包含 Postman 测试集合，位于
+Report API.postman_collection.json
